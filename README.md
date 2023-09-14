@@ -73,4 +73,7 @@ Creating an S3 bucket static website is a common task for hosting a simple, stat
 10. **Access Your Website:**
     - Once your bucket is configured and your website content is uploaded, you can access your static website using the endpoint provided in the "Static website hosting" section of your bucket's properties.
 
-Your static website is now hosted on Amazon S3, and it should be accessible via the provided endpoint. You can also configure a custom domain and set up CloudFront for faster content delivery for a production-ready static website.
+Your static website is now hosted on Amazon S3, and it should be accessible via the provided endpoint. 
+As a proof of succefully completed task should be provided URL of created static website, like follows:
+
+http://singlepage-webapp.s3-website.eu-central-1.amazonaws.com/
